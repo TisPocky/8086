@@ -1,1 +1,1 @@
-Few MALP codes to practise.
+Few 8086 codes to practise.
