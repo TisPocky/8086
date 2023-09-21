@@ -1,1 +1,1 @@
-Few C codes to practise.
+Few MALP codes to practise.
